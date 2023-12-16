@@ -1,0 +1,5 @@
+[tool.ruff]
+select = ["TCH"]
+
+[tool.ruff.lint.flake8-type-checking]
+quote-annotations = true
